@@ -1,0 +1,53 @@
+body {
+  font-family: sans-serif;
+}
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #ffc8d2;
+}
+.desc {
+  color: rgb(70, 73, 77) !important;
+  font-size: medium;
+}
+h4 {
+  font-family: "Bebas Neue", cursive;
+}
+#project {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffc8d2;
+}
+#about {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+#about h2 {
+  color: #dc3545;
+  font-family: "Lobster", cursive;
+}
+#project h2 {
+  font-family: "Lobster", cursive;
+}
+#contact {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+#contact h2 {
+  color: #dc3545;
+  font-family: "Lobster", cursive;
+}
+#gallery h2 {
+  color: #dc3545;
+  font-family: "Lobster", cursive;
+}
+
+/* navbar */
+.navbar-brand {
+  font-family: "Pacifico", cursive;
+}
+.nav-link {
+  color: #ffff !important;
+}
+.nav-link:hover {
+  color: #ebf834 !important;
+}
